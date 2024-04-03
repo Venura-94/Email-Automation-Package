@@ -1,0 +1,5 @@
+datetime
+python-dotenv
+requests
+pandas
+schedule
