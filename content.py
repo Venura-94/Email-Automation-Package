@@ -18,7 +18,7 @@ def get_random_quote(quotes_file='quotes.csv'):
 
 def get_weather_forecast(coords={'lat': 6.8479, 'lon': 80.0484}):
     try:  # retrieve forecast for specified coordinates
-        api_key = "d7f0f75b217e90ca42458a07b71b4a31"
+        api_key = ""
         url = f'https://api.openweathermap.org/data/2.5/forecast?lat={coords["lat"]}&lon={coords["lon"]}&appid={api_key}&units=metric'
         response = requests.get(url)
         
