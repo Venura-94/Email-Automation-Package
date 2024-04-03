@@ -11,7 +11,7 @@
 
 ### Task 4 - Schedule the task to a time period 
 
-### Task 5 - Admin gui using tinker (python built in )
+### Task 5 - Admin gui using tinker (python built in)
 
 ### Task 6 - Save changing configurations to a json file
 
